@@ -178,7 +178,15 @@ I never know what to add in these intro sections, I'm currently looking into stu
 <img src="https://64.media.tumblr.com/9b5166a3c0f9eba6d883d923b9a01b13/905be8ef5ffa356b-5e/s250x400/2e8a5236aa28923ad132eb7090fc7277303532fc.gifv" height="20px" width="150px">
 <img src="https://64.media.tumblr.com/7bc7a1679a9916673e2cb3065b6dcaef/905be8ef5ffa356b-58/s400x600/e34d6f4910ea51ad789951863bea3aea88904a8c.gifv" height="20px" width="150px">
 <img src="https://snarlingteeth.neocities.org/assets/blinkies/mycodewontwork.gif" height="20px" width="150px">
-<img src="https://snarlingteeth.neocities.org/assets/blinkies/isurvivedfman.gif" height="20px" width="150px"></p>
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/isurvivedfman.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/423204498-632f0fb5-4ca8-4cb2-b0a5-8e26e1dae8bc.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/423204183-d2f60ccb-b52d-49fe-8038-e0125e1d6cae.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/423203964-3b039c7c-f7a7-41da-aad3-1ecfb6f1ab04.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/423203613-45ec75c7-bbfc-4d68-bd91-22e27aebc52e.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/423203565-748745c3-9c99-44d0-b168-2a58edc4de43.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/423203203-97aa1bba-2a0f-4701-b42a-88a18cc91617.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/423203046-d6bceb1e-f55d-4590-942b-64313cd37da3.gif" height="20px" width="150px">
+</p>
 
 <p>
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fstamps/alpha.png" height="56px" width="99px"/>
@@ -428,4 +436,8 @@ I never know what to add in these intro sections, I'm currently looking into stu
 <img src="https://64.media.tumblr.com/9c99df26b2af4701a30ed9f30eedea3e/0fcb4acac80b8009-7a/s2048x3072/47373bbe81e8a7688e09c830c7f917e78d5b2cd6.jpg" height="55px" width="205px"/>
 <img src="https://64.media.tumblr.com/eda4352085016b80b34ad0ffeff3a1b5/0fcb4acac80b8009-76/s2048x3072/823fbdda6877fe6e66a060ae9afe1e4c6c4c4aea.jpg" height="55px" width="205px"/>
 <img src="https://64.media.tumblr.com/9febcd8432c03902e58080fc3c2731d8/0fcb4acac80b8009-79/s2048x3072/56deb113fc42f6b9d01dbb5944bbb27102fee2ae.jpg" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/adcfe81c3d29d4cc69419883df0611ea/2eb22e5b3cabd12d-50/s1280x1920/31f3d9ff6cd0eac23b7b7a4bdffe36f781e03194.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/87d18847bea740eb92bd362293c82da8/58582b43fc1639b3-e9/s1280x1920/e7cca610387cdcc309aeefce48b4fc62e9807c77.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/4283c1ee3606983a2f6b2d3329d6a01a/e29383a50ef63d2e-4e/s640x960/9b088935cb76e0b83c3122f3515289085d6a9a09.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/3dc1c09351315941fd563e7fa71a12e2/bfa0b6124a1611d1-c6/s540x810/06b4b2ff9bd97878a93bf96dfc9328bb4821785c.pnj" height="55px" width="205px"/>
 </p>
