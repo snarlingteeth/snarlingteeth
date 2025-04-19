@@ -101,7 +101,6 @@ I never know what to add in these intro sections, I'm currently looking into stu
 <img src="https://snarlingteeth.neocities.org/assets/blinkies/craftaddict.gif" height="20px" width="150px">
 <img src="https://snarlingteeth.neocities.org/assets/blinkies/piracyisfun.gif" height="20px" width="150px">
 <img src="https://snarlingteeth.neocities.org/assets/blinkies/scenicroute.gif" height="20px" width="150px">
-<img src="https://snarlingteeth.neocities.org/assets/blinkies/transgenderwerewolf.webp" height="20px" width="150px">
 <img src="https://snarlingteeth.neocities.org/assets/blinkies/wahoo.webp" height="20px" width="150px">
 <img src="https://snarlingteeth.neocities.org/assets/blinkies/waterdrinker.gif" height="20px" width="150px">
 <img src="https://snarlingteeth.neocities.org/assets/blinkies/werewolfkisser.gif" height="20px" width="150px">
@@ -183,7 +182,6 @@ I never know what to add in these intro sections, I'm currently looking into stu
 <img src="https://snarlingteeth.neocities.org/assets/blinkies/423203613-45ec75c7-bbfc-4d68-bd91-22e27aebc52e.gif" height="20px" width="150px">
 <img src="https://snarlingteeth.neocities.org/assets/blinkies/423203565-748745c3-9c99-44d0-b168-2a58edc4de43.gif" height="20px" width="150px">
 <img src="https://snarlingteeth.neocities.org/assets/blinkies/423203203-97aa1bba-2a0f-4701-b42a-88a18cc91617.gif" height="20px" width="150px">
-
 <img src="https://64.media.tumblr.com/8410407da4ae15e9c31e4f8b251d839b/6db96f7ecd419257-74/s400x600/0eb856e9b074a37915f33bbd993ead3a5df25604.webp" height="20px" width="150px">
 <img src="https://64.media.tumblr.com/d2651a14e06fde7c3a8c69b54dbd4f20/6db96f7ecd419257-86/s250x400/3b5262f02b9ed58d65f6370c8be412a71fdcd4f6.webp" height="20px" width="150px">
 <img src="https://64.media.tumblr.com/f83b171713a9694e97d1b63925f996b5/6db96f7ecd419257-27/s250x400/629cd63e6d997cc846ac9ef730b00b9df202597d.gifv" height="20px" width="150px">
@@ -393,7 +391,6 @@ I never know what to add in these intro sections, I'm currently looking into stu
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fstamps%2Fmore/tumblr_b7f064c50844a60d04aaef5d94c8cfd1_ae445722_100.png" height="56px" width="99px"/>
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fstamps%2Fmore/tumblr_bbeee66679f1794fd1cc94703974cfba_a6ea9b42_100.webp" height="56px" width="99px"/>
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fstamps%2Fmore/tumblr_f187510ad6983a7abf118b6a3d00ce65_1ca95d43_100.png" height="56px" width="99px" height="56px" width="99px"/>
-
 <img src="https://64.media.tumblr.com/b3caba81fb759dcd48b3beee3ac2d64b/ee672ae5a46fc09d-22/s1280x1920/0122a1283dde13fd142d1016f6d96bbe9ac486c8.webp" height="56px" width="99px" height="56px" width="99px"/>
 <img src="https://64.media.tumblr.com/5723db81d36c29e7a380e92bda7cc49f/c7954a6c436ee307-9a/s1280x1920/b88edead2e9cb7aaf17d86ace9479f63840aed00.webp" height="56px" width="99px" height="56px" width="99px"/>
 <img src="https://64.media.tumblr.com/e49de4b1d3da8b31fc6a2c06f0097b8e/712e794bff568974-06/s1280x1920/8e4f0478aea48edff11e3afbb817edeab3dfaabf.gifv" height="56px" width="99px" height="56px" width="99px"/>
@@ -402,6 +399,11 @@ I never know what to add in these intro sections, I'm currently looking into stu
 <img src="https://64.media.tumblr.com/6ad571166584e245a5569219430cd73e/26090308cc7d0c83-9b/s1280x1920/1c926eaddd48d9fbeb8f7a04ef8afa6df72a08aa.png" height="56px" width="99px" height="56px" width="99px"/>
 <img src="https://64.media.tumblr.com/2daf2f75379e6123ca74f0df9ac910b9/900fa8c8341357e1-07/s1280x1920/8ff3171d929d3adae92f608a46527a9149b50dc9.gifv" height="56px" width="99px" height="56px" width="99px"/>
 <img src="https://64.media.tumblr.com/c857167e986f0d4aa0ae97c90f30e25b/214c508f198d0dd6-85/s1280x1920/3dc84041307d5b8e5daa2d5c04d1b5aac9af37be.gifv" height="56px" width="99px" height="56px" width="99px"/>
+
+<img src="" height="56px" width="99px">
+<img src="" height="56px" width="99px">
+<img src="" height="56px" width="99px">
+<img src="" height="56px" width="99px">
 </p>
 
 <p>
@@ -463,6 +465,7 @@ I never know what to add in these intro sections, I'm currently looking into stu
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fbuttons/furry.gif" height="20px"/>
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fbuttons/gal.webp" height="20px"/>
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fbuttons/gayster.gif" height="20px"/>
+          <img src="https://64.media.tumblr.com/503a7c88e186ed16cd0c3c1f86d3fab2/879b5698c4bddd68-a2/s250x400/ae72ee22f2022c53237ca5d2e44b8cb1a8da6120.gifv" height="20px"/>
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fbuttons/graffitiartist.gif" height="20px"/>
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fbuttons/greenlovr.webp" height="20px"/>
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fbuttons/hoarder.webp" height="20px"/>
@@ -489,6 +492,7 @@ I never know what to add in these intro sections, I'm currently looking into stu
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fbuttons/wolf.webp" height="20px"/>
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fbuttons/yip.webp" height="20px"/>
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fbuttons/writer.webp" height="20px" height="20px"/>
+          <img src="https://64.media.tumblr.com/2fb655931aa4ff1474d44ed43619f4bc/22a907b609ec6b03-82/s250x400/a72a76062fa65026e0da3fc9e40eb6ad1e7763c9.gifv" height="20px" height="20px"/>
 </p>
 
 <p>
@@ -539,4 +543,6 @@ I never know what to add in these intro sections, I'm currently looking into stu
 <img src="https://64.media.tumblr.com/6a35e437e58799318083b6355c958967/6e9f56bd5dae5100-3a/s640x960/880a1cc8aadc4f2bbc737e3aad2440109496b9f3.pnj" height="55px" width="205px"/>
 <img src="https://64.media.tumblr.com/0c55db361b652972f0c428eb7d3c9b23/6e9f56bd5dae5100-2e/s640x960/8e001a2862ecf49a1a5c1554008291e0f06d485f.pnj" height="55px" width="205px"/>
 <img src="https://64.media.tumblr.com/d3fc20bbc6f8d01302457b2a80c2a2a1/7606dbcc9b207764-c6/s1280x1920/04bda3cff43f90aec9db26438835354bdac5d5a1.pnj" height="55px" width="205px"/>
+<img src="https://snarlingteeth.neocities.org/assets/userboxes/QEJHtnYSuwaucnnJPDvp.webp" height="55px" width="205px"/>
+<img src="https://files.strawcdn.com/straw/wrHpqOEzMkBCNFXyUtVF.jpg" height="55px" width="205px">
 </p>
