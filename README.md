@@ -392,6 +392,7 @@ I never know what to add in these intro sections, I'm currently looking into stu
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fbuttons/p3t.webp" height="20px"/>
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fbuttons/pup.webp" height="20px"/>
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fbuttons/smartass.jpg" height="20px"/>
+          <img src="https://64.media.tumblr.com/44f6af2f01b72a1598b3c59a93b79b9a/00fb8ddee1cc3f2b-77/s75x75_c1/d2d3f01a11ac2ccba7806b63c562914da5289e17.gifv" height="20px">
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fbuttons/puppy.webp" height="20px"/>
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fbuttons/thecolefamily.webp" height="20px"/>
           <img src="https://snarlingteeth.nekoweb.org/assets%2Fbuttons/robloxmyth.webp" height="20px"/>
@@ -440,4 +441,19 @@ I never know what to add in these intro sections, I'm currently looking into stu
 <img src="https://64.media.tumblr.com/87d18847bea740eb92bd362293c82da8/58582b43fc1639b3-e9/s1280x1920/e7cca610387cdcc309aeefce48b4fc62e9807c77.pnj" height="55px" width="205px"/>
 <img src="https://64.media.tumblr.com/4283c1ee3606983a2f6b2d3329d6a01a/e29383a50ef63d2e-4e/s640x960/9b088935cb76e0b83c3122f3515289085d6a9a09.pnj" height="55px" width="205px"/>
 <img src="https://64.media.tumblr.com/3dc1c09351315941fd563e7fa71a12e2/bfa0b6124a1611d1-c6/s540x810/06b4b2ff9bd97878a93bf96dfc9328bb4821785c.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/b2dd89a53121c477d7aa0f7bcb724944/4b4b2fd63e8878c2-cd/s2048x3072/bd3f6ac403c496c36380db5e99ff2366efe3fd3a.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/1cfe2c004b5840527a5ae7f224219c7a/144d3ce74a6cb2c8-82/s1280x1920/b789a94f2597f34cb82cbbc7c4fed35c83beee3a.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/0d2e48ef7ed6e5576eae354804683b7d/6ed11077809b9843-50/s1280x1920/83ab3648b45f709da2f449ed9d41e52b32b68e80.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/c67516f15c93582512f38b5b7e2dc0e6/78e802f70e2a6b99-18/s1280x1920/499217f409e2401ba82c3fe83eaa417a1162ba0c.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/8c9bdcf28e447272784e1b1fd9fb97dc/ac15ee43995279e1-5a/s1280x1920/d426a6027bddbab82c80235a3680f06888ba3afa.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/37cda91e9a684f382a54f88a8a04d4d9/6e58ef1122339ca5-33/s1280x1920/431f64a6969e6664c0502248340d7ed72c69f6f8.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/ff612d246120a55f119907c56523b786/ca2677e9758b307a-47/s2048x3072/68f8ccec73b9bb2c94a30da89228f4751f5f1864.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/f744a5eaca040b76f586150dfe5d569f/2cde03809f033203-b9/s500x750/57e8ef2f281fc792098d7c6da3b31ca2f2ef9097.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/f0d800358c9bbf4c607eb47c5ae72dae/11b803631e18d3ff-c3/s1280x1920/65f1623d029e35deebfd0104e1240edbce37999f.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/66b3d0a92a9b7867fe3bf5e2f6dee2d6/74f6ef878982702b-c7/s1280x1920/be45d2074dddc2622ce0eff97f8891358cb9c002.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/dc05e52e69f9620c170180e0ec2ca87c/f7c936492c0bfa51-e7/s1280x1920/2bb1365c167708f1b2bc170bbb2990d54943c0f8.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/de25aef69645af1fd324d46f21157e4e/796dbc364f07c94e-31/s540x810/b664749c458b04dbe83aa41e41c5f0db7b19a317.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/6a35e437e58799318083b6355c958967/6e9f56bd5dae5100-3a/s640x960/880a1cc8aadc4f2bbc737e3aad2440109496b9f3.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/0c55db361b652972f0c428eb7d3c9b23/6e9f56bd5dae5100-2e/s640x960/8e001a2862ecf49a1a5c1554008291e0f06d485f.pnj" height="55px" width="205px"/>
+<img src="https://64.media.tumblr.com/d3fc20bbc6f8d01302457b2a80c2a2a1/7606dbcc9b207764-c6/s1280x1920/04bda3cff43f90aec9db26438835354bdac5d5a1.pnj" height="55px" width="205px"/>
 </p>
