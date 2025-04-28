@@ -289,12 +289,83 @@ I never know what to add in these intro sections, I'm currently looking into stu
 <img src="https://64.media.tumblr.com/f704b64fa9e616a61dc9925ab29d5223/85d877847710f430-3c/s250x400/6b609fe7ec47e4789adca739ec07f34fc49259c8.gifv" height="20px" width="150px">
 <img src="https://64.media.tumblr.com/ad370ca439b31bdbc17541b621b363e3/d6fb9dadb6100faf-34/s1280x1920/ae640cbc97af3dc81f340cbd3297c1714f1a2a9a.gifv" height="20px" width="150px">
 <img src="https://snarlingteeth.neocities.org/assets/blinkies/kKqmlAExtDiaiydOvtyS.gif" height="20px" width="150px">
-
 <img src="https://64.media.tumblr.com/253d6a22c1e05165a5a8b15589203c5d/05d04880d2b79291-ce/s250x400/5658403c8f40c5aa4fd1b919a4259819c4f785e8.gifv" height="20px" width="150px">
 <img src="https://64.media.tumblr.com/ac88337aa8dd3e828f012ceff7cffe21/baf41b79d8f82464-23/s250x400/4fb290aba2fbf9cae258f8ed5a4d375b0b266bc6.gifv" height="20px" width="150px">
 <img src="https://64.media.tumblr.com/f490413fd5de1540a104d4526d31d4de/d8fb36e0b8be03f7-ba/s250x400/9cf0ab04f97b9fb7f97754e2b5d6b4f60dc6a1ac.gifv" height="20px" width="150px">
 <img src="https://64.media.tumblr.com/39a33caaf7ddb21ba43df32b6e122791/3180fdf5b0a2d7e6-9b/s250x400/17203b7a48873ae1ecd80954e31d90a3156f4741.gifv" height="20px" width="150px">
 <img src="https://64.media.tumblr.com/d78208f843383c9fb6488dbc7c917f52/f185d5fa8ce71c7c-fb/s250x400/aa93e80fe25c49dd0128a39c1a46406a31429443.gifv" height="20px" width="150px">
+
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/alonenotlonely.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/badtothebone.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/barbedwire.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/blinkiemadness.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/bodymods.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/born2bewild.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/confused.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/damnit.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/decor.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/df1vs8h-547bbce1-8098-4166-aafe-230ff6e5ecdc.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/df250vw-0d4e7885-0f54-49c4-b8ec-ebe782933946.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/df2dxfz-163b1f69-a2cd-4990-8e84-7dd381edf7f1.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/df2dxsy-b5ea5f54-612a-4d17-aeee-df893b21e7d4.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfej92j-a8911185-daf9-439a-ae10-3df9163b95f4.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfeosfg-6ec355d7-ddd0-48f0-822c-7beec3f698f6.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfftzkz-e1977ef2-8d0b-447d-912c-91bf236606ed.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dffyt90-dac02a79-ec84-4541-88d4-190c20f57f7d.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfgt7ej-75986b48-3e15-43c2-aa7f-06abf19805c7.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfo4pq3-36cc6d81-1ff1-4e92-b76c-15d82387cedb.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfo7jfn-714753c1-80e4-420e-940e-a7f5c449a8f8.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfo85bf-6b0b0005-8b7f-44ec-b068-91ef1a8349b9.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfoaa6g-5dfa51dd-7e89-4831-b2d2-cc29fdfebf4e.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfof6qu-55838a43-160d-4183-ad06-82e528f5920d.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfogj6q-898556aa-e169-45a3-b41d-078265848aa0.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfomayq-99b90f49-2f7f-4e9e-893d-5aade0b57340.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfouf8h-c0c4013b-8115-4dbc-940a-428168bd1e03.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfow4cr-1964804c-edb4-44a3-a2f6-d78319ee60d1.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfpvsmd-ccc20c8d-3a17-476a-820a-c9322bce44ee.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfow6ak-4dab3214-31d2-4ffb-913e-3b16df1a8d3d.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dftk772-fda9c345-b98f-40fe-9eaf-cef121df37d8.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfv8pr4-158aa4ea-7255-4d90-8389-e8636b361061.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfvbdvq-0344262c-64cb-4d82-9667-d0ce98fa1d1d.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfveiqp-546ebe41-82f1-4490-bb6d-606a1cc387f2.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfvelyc-febb4f86-2edf-4198-97b1-f29fe6d44237.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfvhec0-13db12a6-2f51-4d77-97ea-da91bc751ad1.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfvmeiw-ee4a39ed-36ad-47f9-ba1c-2e37567ece8d.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfwdlne-e84b442d-b5c6-4813-9733-25f9d51f154b.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfwmxhr-2c5fb936-2e99-45e7-aa98-6408bdc5edcb.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dfwp19l-505b23c9-f863-4443-ba18-1040346baeb8.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dg046ox-22d1e00a-ce5b-4490-ba62-dde61cbeb482.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dg1aeng-2e038197-1679-40ed-bb8e-9945c8a75268.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dgxklz0-40a19043-eb7f-4e60-9d69-a18d84cbbe37.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dgxvlmf-902566b3-b9fd-4ac9-9778-7f9e7a3a7ba8.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dgypesp-e462bc6d-6a91-4fc8-a2aa-0bcdcda5cae6.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dh06zp0-a8d91346-c864-46a2-ab0f-7e9f1e3c3d0c.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dhcey7s-07bcb3c0-c6e0-44dd-b3e3-fa67545ed0fc.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dopesmokingmoron.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/fatigueprone.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/feelingkindafunky.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/fidlar.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/fisher.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/fishindeed.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/iamstillangry.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/ibite1.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/idoitondesktop.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/ifgodwantedyoutolive.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/inscryption.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/lapdog.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/nightowl.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/nothuman.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/nouns.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/open24hours.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/physicalmedia.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/preparetobe.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/psychologichorror.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/rabies.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/schoolkillsartists.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/sleepwassat.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/snoring.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/sparkledogkin.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/timetravel.gif" height="20px" width="150px">
 </p>
 
 <p>
@@ -533,6 +604,7 @@ I never know what to add in these intro sections, I'm currently looking into stu
 <img src="https://snarlingteeth.neocities.org/assets/buttons/animaljam.png" width="88px" height="32px">
 <img src="https://64.media.tumblr.com/c31c5066f506c9f8c27827bbe2403e2c/8cefc02fc14f3979-58/s100x200/31845675f95f343a6b1e4ac4c9356c053d99eb83.pnj" width="88px" height="32px">
 <img src="https://64.media.tumblr.com/d5fad9b097ec82c2ab823db33dd4628d/8cefc02fc14f3979-66/s250x400/36b213508fcb318eafe0853e58bf59af6508734e.gifv" width="88px" height="32px">
+<img src="https://snarlingteeth.neocities.org/assets/buttons/dfw3mr2-8c6e2514-bcfd-4769-b8d8-ff87e1d9bee1.gif" width="88px" height="32px">
 </p>
 
 <p>
