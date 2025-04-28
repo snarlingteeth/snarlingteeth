@@ -563,6 +563,20 @@ I never know what to add in these intro sections, I'm currently looking into stu
 <img src="https://64.media.tumblr.com/0e27d2cd2464debfb39cb5dde3b8d7ab/83f561e7eda11a70-d4/s100x200/1311cfa1f93f9574211ec43c36e11a32409d8735.pnj" height="56px" width="99px">
 <img src="https://64.media.tumblr.com/d45a9534879b4276963a7300dd07db65/83f561e7eda11a70-41/s100x200/181d9e2a58a7e4e9e69dc7cf1dc12be8750e9053.pnj" height="56px" width="99px">
 <img src="https://64.media.tumblr.com/9b98df8265017dc397b653ff63cb6ece/d75be76f682b65ab-5d/s250x400/6d6b5cc45b9ee37bd2726bc51164c9025b37b3a7.pnj" height="56px" width="99px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dg2007b-5f39a69a-1bf8-40b7-84f3-6624ac7f2c6b.png" height="56px" width="99px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dg2008g-b3673a30-2ce0-455c-828b-0e832bdaee5b.png" height="56px" width="99px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dg2009u-310e75c5-2243-48f7-8acd-2197fc00f80c.png" height="56px" width="99px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dg200a5-6af250bc-7230-4779-bd5e-97edd91f87c9.png" height="56px" width="99px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dg200ac-a14c6a1a-8d52-4d90-accf-3820751f1eb4.png" height="56px" width="99px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dg200ah-879ba924-fad7-491d-9e33-904a7c1c9aad.png" height="56px" width="99px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dg200ar-02d925c2-7121-4747-8b80-4c2e652a7e59.png" height="56px" width="99px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dg200b4-b6f2a8d1-5bf5-4f28-9219-c94168640dac.png" height="56px" width="99px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dgmi9ay-6b1729db-ec15-405d-a847-c1d3b39a58eb.gif" height="56px" width="99px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/dhyw27c-82ad1597-c7d2-4ea0-8cd4-a5571b47f95e.png" height="56px" width="99px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/di1kus6-4fc7f8d0-5b6a-494d-8c70-72108255a655.gif" height="56px" width="99px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/gethammered.gif" height="56px" width="99px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/thisdog.png" height="56px" width="99px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/youhaveaninfluence.gif" height="56px" width="99px">
 </p>
 
 <p>
@@ -662,6 +676,15 @@ I never know what to add in these intro sections, I'm currently looking into stu
 <img src="https://64.media.tumblr.com/47eedc0b75687281c40d44cd0904c756/f30a91219708cbdc-92/s75x75_c1/6c64f3be6b3adfa951ce8ca3a6e43d7683c78011.gifv" height="20px" height="20px"/>
 <img src="https://64.media.tumblr.com/33fe0edd6e14d2697e7702b141c120c7/6a013847a16bf59c-7a/s75x75_c1/02e2149ac30a596acaa92c9e8437f8d1dcadeeb9.gifv" height="20px" height="20px"/>
 <img src="https://64.media.tumblr.com/e03328408d225d1bc2fc0447976f9443/ea22b802ee23a7f3-7e/s75x75_c1/cb7af838a7c59b7b619743de3b37378711b1dc5b.gifv" height="20px" height="20px"/>
+
+<img src="https://snarlingteeth.neocities.org/assets/buttons/shiny/collector.gif" height="20px" height="20px"/>
+<img src="https://snarlingteeth.neocities.org/assets/buttons/shiny/constellation%20lover.gif" height="20px" height="20px"/>
+<img src="https://snarlingteeth.neocities.org/assets/buttons/shiny/dog%20(1).gif" height="20px" height="20px"/>
+<img src="https://snarlingteeth.neocities.org/assets/buttons/shiny/fluffy.gif" height="20px" height="20px"/>
+<img src="https://snarlingteeth.neocities.org/assets/buttons/shiny/inked.gif" height="20px" height="20px"/>
+<img src="https://snarlingteeth.neocities.org/assets/buttons/shiny/peace.gif" height="20px" height="20px"/>
+<img src="https://snarlingteeth.neocities.org/assets/buttons/shiny/pierced.gif" height="20px" height="20px"/>
+<img src="https://snarlingteeth.neocities.org/assets/buttons/shiny/puppy.gif" height="20px" height="20px"/>
 </p>
 
 <p>
@@ -714,4 +737,8 @@ I never know what to add in these intro sections, I'm currently looking into stu
 <img src="https://64.media.tumblr.com/d3fc20bbc6f8d01302457b2a80c2a2a1/7606dbcc9b207764-c6/s1280x1920/04bda3cff43f90aec9db26438835354bdac5d5a1.pnj" height="55px" width="205px"/>
 <img src="https://snarlingteeth.neocities.org/assets/userboxes/QEJHtnYSuwaucnnJPDvp.webp" height="55px" width="205px"/>
 <img src="https://files.strawcdn.com/straw/wrHpqOEzMkBCNFXyUtVF.jpg" height="55px" width="205px">
+
+<img src="https://snarlingteeth.neocities.org/assets/userboxes/68590663_rU6CAfnaIuLNigX.png" height="55px" width="205px">
+<img src="https://snarlingteeth.neocities.org/assets/userboxes/68590471_Vdyrv6CNF0e6eaG.png" height="55px" width="205px">
+<img src="https://snarlingteeth.neocities.org/assets/userboxes/68590334_2Rg5iz2pLdFdRvs.png" height="55px" width="205px">
 </p>
