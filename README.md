@@ -294,7 +294,6 @@ I never know what to add in these intro sections, I'm currently looking into stu
 <img src="https://64.media.tumblr.com/f490413fd5de1540a104d4526d31d4de/d8fb36e0b8be03f7-ba/s250x400/9cf0ab04f97b9fb7f97754e2b5d6b4f60dc6a1ac.gifv" height="20px" width="150px">
 <img src="https://64.media.tumblr.com/39a33caaf7ddb21ba43df32b6e122791/3180fdf5b0a2d7e6-9b/s250x400/17203b7a48873ae1ecd80954e31d90a3156f4741.gifv" height="20px" width="150px">
 <img src="https://64.media.tumblr.com/d78208f843383c9fb6488dbc7c917f52/f185d5fa8ce71c7c-fb/s250x400/aa93e80fe25c49dd0128a39c1a46406a31429443.gifv" height="20px" width="150px">
-
 <img src="https://snarlingteeth.neocities.org/assets/blinkies/more/alonenotlonely.gif" height="20px" width="150px">
 <img src="https://snarlingteeth.neocities.org/assets/blinkies/more/badtothebone.gif" height="20px" width="150px">
 <img src="https://snarlingteeth.neocities.org/assets/blinkies/more/barbedwire.gif" height="20px" width="150px">
@@ -366,6 +365,8 @@ I never know what to add in these intro sections, I'm currently looking into stu
 <img src="https://snarlingteeth.neocities.org/assets/blinkies/more/snoring.gif" height="20px" width="150px">
 <img src="https://snarlingteeth.neocities.org/assets/blinkies/more/sparkledogkin.gif" height="20px" width="150px">
 <img src="https://snarlingteeth.neocities.org/assets/blinkies/more/timetravel.gif" height="20px" width="150px">
+<img src="https://64.media.tumblr.com/f0a4433857c380d833c514b1d58c1591/876726d74c67c159-24/s250x400/19ad1a768e544c5303753b7492e01d8849d50c04.gifv" height="20px" width="150px">
+
 </p>
 
 <p>
