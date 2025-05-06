@@ -17,7 +17,7 @@ I never know what to add in these intro sections, I'm currently looking into stu
   <a href="https://snarlingteeth.neocities.org" target="_blank" rel="ugc"><img src="https://static.spacehey.net/social-icons/custom_web.png" style="margin:10px"/ loading="lazy"></a>
 <h1>Collections</h1>
 <br>
-        <p><img src="https://snarlingteeth.neocities.org/assets/blinkies/animaljam.webp" height="20px" width="150px">
+        <p> <img src="https://snarlingteeth.neocities.org/assets/blinkies/animaljam.webp" height="20px" width="150px">
         <img src="https://snarlingteeth.neocities.org/assets/blinkies/anypronouns.gif" height="20px" width="150px">
         <img src="https://snarlingteeth.neocities.org/assets/blinkies/awooooo.gif" height="20px" width="150px">
         <img src="https://snarlingteeth.neocities.org/assets/blinkies/bark.gif" height="20px" width="150px">
@@ -377,6 +377,27 @@ I never know what to add in these intro sections, I'm currently looking into stu
 <img src="https://64.media.tumblr.com/6e70ea6c8be992fad3d67e3704ef0830/3c0b94b0e35a265d-33/s1280x1920/15dd613bb8d06c5d18ba6d06c390c1aae59b16cf.gifv" height="20px" width="150px">
 <img src="https://64.media.tumblr.com/646d7098fe632022f176e6f587f4f28e/8011aae437b3e4ba-29/s1280x1920/f124972f6369e6b4011f5d5ed5d138b3dea4e658.gifv" height="20px" width="150px">
 <img src="https://64.media.tumblr.com/6b81540ff42e6aa15654659b234c48b8/8011aae437b3e4ba-1a/s1280x1920/8105120b1071da8034d1abf3935e9f42c22a0c33.gifv" height="20px" width="150px">
+
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/Blinkie_45__site_.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/blinkiebasketlogo.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/conserve_water.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/daydreamer.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/ilovescrapbooking.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/mdblinkie.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/nobugging.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/practicesafesex.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/tumblr_30eba6fbebfd7e9603b2d3293d2f42b1_de8a84c5_250.webp" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/tumblr_34b715e9bce16eeb0a1838aa30fe81d2_dc665e51_250.webp" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/tumblr_34ef27375135183100f5539bb2455da3_f8a0a10f_250.webp" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/tumblr_3df69e13818819e8e7b3ec1e468825bc_68674e4d_250.webp" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/aquariumjunkie.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/woof.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/popcorn.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/ilikefish.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/igottagowhere.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/faithfulfriend.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/doghair.gif" height="20px" width="150px">
+<img src="https://snarlingteeth.neocities.org/assets/blinkies/more/moremore/catnippers.gif" height="20px" width="150px">
 </p>
 
 <p>
