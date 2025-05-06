@@ -808,7 +808,6 @@ I never know what to add in these intro sections, I'm currently looking into stu
 <img src="https://64.media.tumblr.com/ec278566958902a4a3ccf7eca774f63b/2516f73575079cbf-df/s2048x3072/7fc024cf8a3612838fed874637aa502c3ad624f1.pnj" height="55px" width="205px">
 <img src="https://64.media.tumblr.com/446dc66a144e6bd703ffcd2ea117e2c6/ab0142339c657e91-78/s2048x3072/b5f46bf85398950d7b6ffd25f5c99455ec1ba9d8.pnj" height="55px" width="205px">
 <img src="https://64.media.tumblr.com/087f24fb48ca65cbaa2bb7242ca0d8c7/217b1a6db757e8e8-99/s2048x3072/5dd57b43e3ddc21245801abcf8aac82a5a4d0043.pnj" height="55px" width="205px">
-<img src="https://64.media.tumblr.com/087f24fb48ca65cbaa2bb7242ca0d8c7/217b1a6db757e8e8-99/s2048x3072/5dd57b43e3ddc21245801abcf8aac82a5a4d0043.pnj" height="55px" width="205px">
 <img src="https://64.media.tumblr.com/201fa6bef76a698a1545535ca0c571ce/8fecb6d0da1c0faa-60/s2048x3072/c8d0a37013bf0396659a42444e92f6d680f641e0.pnj" height="55px" width="205px">
 <img src="https://64.media.tumblr.com/65b068fa6ddf9aa2ab59a445b3983ec4/a097eba5b39f1c5c-f6/s2048x3072/0fcb76bb37805d6e8ca6ee82cfc18fd2dccf7893.pnj" height="55px" width="205px">
 <img src="https://64.media.tumblr.com/46841aad599b7ec0590d4b99479b8fb0/61562a949a0bf459-be/s2048x3072/4d5b21354399ea87edfc0d2f0c089a41637c43ab.pnj" height="55px" width="205px">
